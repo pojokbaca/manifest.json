@@ -1,0 +1,39 @@
+{
+  "name": "Pojok Baca",
+  "short_name": "Pojokbaca.org",
+  "scope": "https://www.pojokbaca.org/",
+  "start_url": "https://www.pojokbaca.org/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Pojokbaca.org - Media Online yang Menyajikan Informasi Kekinian, Edukasi, dan Pengetahuan untuk Mendorong Terciptanya Budaya Masyarakat yang Literat.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhmSjljyYADl-Mvo5I-qfVXflSCBxS6DDvxVvkhDiZjCWwwCcLbRmjdeCkCyepnrKAW8uxVrZ_v4VpGOwz71pozDL7b5NaitzbQmi6aCa_pDfcTmMAfSSgnVEnSpdn0x2UDzXtmg-4yYC8dJYnVb9Ak0O9kj9IV_GnXeq_EBkM4cSRn0S1zP0KcldxUCgx/s48/image-pojokbaca-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKY1ejhZoQbcxjl_okozAH4ofjrpjTKD5QEucugF11Yu92mLkxWhbRJm5ryynyjmUpxx8BYRb_45g0Ncf7BjCrAqwVBjJP3YKu4hoiQNLWfVXWqHtqFn8e8_bGVcoBqJsuWIen40EzLO8lwQEqVcYg9U35Yp-P9J9tVp5Zz8qBjRwyPowZ5owlue-AYlvv/s72/image-pojokbaca-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSj_iwJW0DVBD2A_6Ruv5H1ry5bqrtiZFvNX4xDIlw1w6OdcJpL63MhT-ASx1XzL3QA5T6eyrihGitwCOdtvGZFDGnqCjBmpVrOThRQ6p148ykBF_l_YKMetUNEbstdUcOe8K-FuwyEk-fsWsUThXDVN04qCtjz6UOOlqclzTMsXMm-RQSgiPHGAzcNHda/s96/image-pojokbaca-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhySsqmIYPW6YCakWlxW-IGw_iCPOMPaGRFtF1P_o2f0YM1ul55FRjK2FSoEyIHHFVy6UAAC3J_-dq_t3cY6-zNn4oGFKAOHYV0f62L-J_Adga4mgHjRwFOo7iJ08IY2VdIIzVcu8X_kXgtWOYJGtpIPihxlYiOld4N_54PsmIewUSvJBQ4GinghCXJmfl-/s144/image-pojokbaca-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisByiRq0NobxubCePZEgyVruX2nkaalDsgRWyxJwIAGoo7XzipH8IondrW6CWuScO1ZtBIeZsenfzvNURXoKQNWTy_5GXDlUBm7jXIl24kknQgIvnq3IeAHQ0W8VBdsFiIKIb6PHF5vEWIeFBmAzzwaPpZWefF49ZboSjDKFDPm-RedaIV20vh8b7Ro1UV/s168/image-pojokbaca-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEpN4-6aEDtNIoq0G9OK50oUfEG3hIfhmTbmmZIG0FQ1vuxOxF9Gwv36yzLtOVqumsTnipAdzK4yuS-58YyGjybYAViLMCeNq-iXEW9DT1tj9T8vFD3HQ4EoMz6GRldRXVIDawBlXj_rpcnuGZXTZlsW11ZK77JhrfDPFhFXPb3WDODbUqNVgoVeo28CZN/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZNo8Jx5QgoNaKDFLuojl68hxfqUgz6xR5p7fNVkXEoM3EA0ZInZynEeYxxd1RPFKYpsxUeZyQqSguohiImZ0ZUx8xd-pgmhUv0Yt_gna0RzF-gaPRrH23iWwJf8k6mD9IFrwHCZbvMOjwV3kfSwM3WtxZhu-ePgOxgNNhlIAIvoqoOoQvSYsdWwncn3O/s512/image-pojokbaca-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
